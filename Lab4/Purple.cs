@@ -6,7 +6,7 @@
         {
 
             // code here
-
+            array[0] = 0;
             // end
 
         }
